@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.title-1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.title-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+@font-face {
+    font-family:"offline shrift" ;
+    src: url();
+}
+.title-3{
+   font-family:offline shrift ;
+}
+.title-4{
+    font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.title-5{
+   font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.title-6{
+    font-family: "Moo Lah Lah", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.title-7{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; 
+\
